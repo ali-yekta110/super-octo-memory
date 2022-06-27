@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contributors>
+    <contributor
+        alias="pulser"
+        contribution="English corrections" />
+    <contributor
+        name="Jorg K"
+        contribution="General comments" />
+    <contributor
+        alias="La Globule"
+        contribution="French translation" />
+    <contributor
+        name="Guillermo Schvartzman"
+        contribution="Spanish translation" />
+    <contributor
+        name="Róbert Valkai"
+        contribution="Hungarian translation" />
+    <contributor
+        name="Zidan Pragata"
+        alias="zidanpragata"
+        contribution="Indonesian translation" />
+    <contributor
+        alias="Kimilaykimli"
+        contribution="Turkish translation" />
+</contributors>
